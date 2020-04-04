@@ -1,0 +1,46 @@
+@font-face {
+    font-family:pt-sans;
+    src:url("../scripts/fonts/ptsans-google-font/PTSans-Regular.ttf");
+}
+.details-div{
+    text-align:center;
+    /* display:table-cell;
+    vertical-align: middle; */
+}
+.footer{
+    position:relative;
+    min-height:100%;
+}
+.name-details-col{
+    background-color:#83D0F2;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.name-container-span{
+    background-color:black;
+    color:snow;
+    padding:2px 2px 2px 2px;
+}
+.profile-pic-container-div{
+    text-align:center;
+    background-color: orangered;
+    padding:0px;
+}
+.profile-picture{
+    width:80%;
+    height:80%;
+    object-fit: scale-down;
+}
+.wall{
+    background-color: skyblue;
+}
+.what-i-do-container-span{
+    background-color:black;
+    color:snow;
+    padding:0px 2px 0px 2px;
+}
+.watch-dogs-icon{
+    width:40px;
+    height:40px;
+    object-fit:scale-down;
+}
