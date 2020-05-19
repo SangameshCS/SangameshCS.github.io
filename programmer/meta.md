@@ -1,0 +1,1 @@
+This folder consists html specifically for displaying my programming portfolio.
